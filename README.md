@@ -1,4 +1,5 @@
 ## Robert Clayton
+[Skills](#Skills) | [Projects](#Projects) | [Experience](#Experience)| [Education](#Education) | [Interests](#Interests)
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -52,3 +53,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Other cool stuff
 
 #### Any other qualifications
+
+## Interests
+
+Some of my interests
