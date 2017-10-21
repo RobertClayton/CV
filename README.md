@@ -35,27 +35,27 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Makers Academy**   
 *Software Development Bootcamp*   (Oct 2017 to Present)  
 
-**Allen & Overy / ProAV**
-*Production Technician*           (Feb 2016 to Sep 2017)
+**Allen & Overy / ProAV**   
+*Production Technician*           (Feb 2016 to Sep 2017)   
 *Audio Visual Events Technician*  (May 2016 to Feb 2017)
 
-**Fido's Box**
+**Fido's Box**   
 *Founder*                         (Apr 2016 to Mar 2017)
 
-**HTB & Alpha International**
-*Live Audio, Visual & Lighting Technician*  (Feb 2013 to Mar 2016)
+**HTB & Alpha International**   
+*Live Audio, Visual & Lighting Technician*  (Feb 2013 to Mar 2016)   
 *& Production Warehouse and Maintenance*
 
-**Private Guitar Tuition**
+**Private Guitar Tuition**   
 *Freelance*                        (Feb 2013 to Mar 2016)
 
-**Jam Staffing Ltd**
+**Jam Staffing Ltd**   
 *Events Staff*                     (Mar 2012 to Dec 2012)
 
-**St Cuthbert's North Wembley**
+**St Cuthbert's North Wembley**   
 *Music Leader*                     (Nov 2010 to Jul 2012)
 
-**London Creative**
+**London Creative**   
 *Summer Internship*                (Aug 2011 to Sep 2011)
 
 ## Education
