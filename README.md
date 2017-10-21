@@ -1,7 +1,11 @@
 ## Robert Clayton
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience)| [Education](#education) | [Interests](#interests)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I grasp every opportunity available to me and strive to be enthusiastic and positive. What I enjoy most is being given tasks and objectives that challenge my abilities and talents.
+
+I worked as a technician for the leading global law firm, after only 10 months I was given the responsibility to run the Production department for London. I am now studying with Makers Academy as I have a passion for technology and a challenge and have found code to be the perfect combination of the two.
+
+I'm looking for a Full Stack Junior Developer role where I can continue to learn something new every day, in an organisation that loves developing great software, with the opportunity to use some amazing technologies such as Machine Learning, Artificial Intelligence or Blockchain.
 
 ## Skills
 
@@ -28,14 +32,35 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Makers Academy**   
+*Software Development Bootcamp*   (Oct 2017 to Present)  
+
+**Allen & Overy / ProAV**
+*Production Technician*           (Feb 2016 to Sep 2017)
+*Audio Visual Events Technician*  (May 2016 to Feb 2017)
+
+**Fido's Box**
+*Founder*                         (Apr 2016 to Mar 2017)
+
+**HTB & Alpha International**
+*Live Audio, Visual & Lighting Technician*  (Feb 2013 to Mar 2016)
+*& Production Warehouse and Maintenance*
+
+**Private Guitar Tuition**
+*Freelance*                        (Feb 2013 to Mar 2016)
+
+**Jam Staffing Ltd**
+*Events Staff*                     (Mar 2012 to Dec 2012)
+
+**St Cuthbert's North Wembley**
+*Music Leader*                     (Nov 2010 to Jul 2012)
+
+**London Creative**
+*Summer Internship*                (Aug 2011 to Sep 2011)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Oct 2017 to Present)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -46,11 +71,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### London School of Theology (Sep 2010 to Jul 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Theology & Music B.A.
 
 #### Any other qualifications
 
