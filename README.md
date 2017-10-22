@@ -1,7 +1,7 @@
 # Robert Clayton
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience)| [Education](#education)| [Voluntary](#voluntary) | [Interests](#interests)
 ***
-I grasp every opportunity available to me and strive to be enthusiastic and positive. What I enjoy most is being given tasks and objectives that challenge my abilities and talents.
+I grasp every opportunity available to me and strive to be enthusiastic and positive. What I enjoy most is being given tasks and objectives that push my abilities and talents.
 
 I am studying with Makers Academy as I am passionate about technology and love to be challenged, and have found programming to be the perfect combination of the two.
 
@@ -50,7 +50,7 @@ Software Development Bootcamp  (Oct '17 - Present)
 
 Production Technician  (Feb '17 - Sep '17)   
 <dl>
-  <dd><em>I run the Production department and had the sole responsibly for all internal London footage. This involved creating products from concept, through to final delivery to the client. </em></dd>
+  <dd><em>I ran the Production department and had the sole responsibly for all internal London footage. This involved creating products from concept, through to final delivery to the client. </em></dd>
 </dl>
 
 Audio Visual Events Technician (May '16 - Feb '17)  
@@ -61,6 +61,9 @@ We provided for any technical need that is desired of us.</em></dd>
 
 **Fido's Box**  
 Founder (Apr '16 - Mar '17)                          
+<dl>
+  <dd><em>Online subscription box business venture.</em></dd>
+</dl>
 
 **HTB & Alpha International**    
 Live Audio, Visual & Lighting Technician (Feb '13 - Mar '16)    
@@ -96,7 +99,8 @@ Summer Internship (Aug '11 - Sep '11)
 
 - Theology & Music B.A.
 
-**DofE???**
+**Grade 8 Guitar**   
+**Duke of Edinburgh Award - Silver**
 
 
 ***
@@ -111,5 +115,5 @@ Summer Internship (Aug '11 - Sep '11)
 # Interests
 
 - Guitarist and Cinematic Composition
-- Current Technologies and Engineering
+- Current innovations in Technology
 - The Philosophical Impact of Code (e.g. programing Machine Learning moral choices, If a human level intelligence is made - does it have the same rights as a human?)
