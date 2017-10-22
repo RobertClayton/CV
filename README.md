@@ -1,40 +1,39 @@
-##
-## Robert Clayton
+# Robert Clayton
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience)| [Education](#education)| [Voluntary](#voluntary) | [Interests](#interests)
-
+***
 I grasp every opportunity available to me and strive to be enthusiastic and positive. What I enjoy most is being given tasks and objectives that challenge my abilities and talents.
 
-I worked as a technician for the leading global law firm, after only 10 months I was given the responsibility to run the Production department for London. I am now studying with Makers Academy as I have a passion for technology and a challenge and have found code to be the perfect combination of the two.
+I am studying with Makers Academy as I am passionate about technology and love to be challenged, and have found programming to be the perfect combination of the two.
 
-I'm looking for a Full Stack Junior Developer role where I can continue to learn something new every day, in an organisation that loves developing great software, with the opportunity to use some amazing technologies such as Machine Learning, Artificial Intelligence, Blockchain.
+I am looking for a Full Stack Developer role where I can continue to learn something new every day, in a place that loves developing great software. I would also love the opportunity to use some amazing technologies such as Machine Learning, Artificial Intelligence and Blockchain.
 
-##
-## Skills
+***
+# Skills
 
-#### This Skill
+- **Communication** - here is proof of my communication skill
+- **Analysis**
+- **Analytical thinker**
+- **Delivery**
+- **Thrive under pressure**
+- **Fast learner**
+- **Adaptable**
+- **Problem-solving**
+- **Inquisitive** - I love learning
+- **Innovative**
+- **Commitment** - (Experience, Achievements, Evidence)
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+***
+# Projects
 
-- Experience
-- Achievements
-- Evidence
+Project | Description | Technologies Used | Testing Technologies  
+---|---|---|---  
+Project 1 | This will be my first Makers Project | NativeScript, Angular 2, Typescript, Javascript, CSS, Xcode | Jasmine, Karma  
+Project 2 | This will be my second Makers Project | Ruby, Rails, Postgres /w ActiveRecord, HTML5(HAML), CSS3 | RSpec, Capybara  
+Project 3 | This will be my third Makers Project | Ruby, Rails, Postgres /w ActiveRecord, OAuth, Devise, HTML5(HAML), SASS | RSpec, Capybara  
 
-#### Another Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-##
-## Projects
-
-#### Future Projects:
-
-##
-## Experience
+***
+# Experience
 
 **Makers Academy**    
 Software Development Bootcamp  (Oct '17 - Present)  
@@ -46,7 +45,7 @@ Software Development Bootcamp  (Oct '17 - Present)
 
 <dl>
   <dd><em>I was subcontracted by ProAV to work at Allen & Overy.</em></dd>
-  <dd><em>Allen & Overy is an international law firm - A&O is the leading global law firm for 2017. Subcontracted from ProAV - ProAV is one of Europe's foremost providers of professional, integrated audio visual solutions.</em></dd>
+  <dd><em>Allen & Overy is the leading global law firm for 2017 - ProAV is one of Europe's foremost providers of professional, integrated audio visual solutions.</em></dd>
 </dl>
 
 Production Technician  (Feb '17 - Sep '17)   
@@ -60,30 +59,29 @@ Audio Visual Events Technician (May '16 - Feb '17)
 We provided for any technical need that is desired of us.</em></dd>
 </dl>
 
-**Fido's Box** (Apr '16 - Mar '17)  
-Founder                         
+**Fido's Box**  
+Founder (Apr '16 - Mar '17)                          
 
-**HTB & Alpha International** (Feb '13 - Mar '16)  
-Live Audio, Visual & Lighting Technician  
-& Production Warehouse and Maintenance    
+**HTB & Alpha International**    
+Live Audio, Visual & Lighting Technician (Feb '13 - Mar '16)    
 
-**Private Guitar Tuition**  (Feb '13 - Mar '16)  
-Freelance  
+**Private Guitar Tuition**   
+Freelance (Feb '13 - Mar '16)  
 
-**Jam Staffing Ltd**  (Mar '12 - Dec '12)  
-Events Staff
+**Jam Staffing Ltd**  
+Events Staff (Mar '12 - Dec '12)  
 
-**St Cuthbert's North Wembley** (Nov '10 - Jul '12)  
-Music Leader  
+**St Cuthbert's North Wembley**  
+Music Leader (Nov '10 - Jul '12)   
 
-**London Creative**  (Aug '11 - Sep '11)  
-Summer Internship  
+**London Creative**  
+Summer Internship (Aug '11 - Sep '11)    
 
 
-##
-## Education
+***
+# Education
 
-#### Makers Academy (Oct '17 - Present)
+**Makers Academy** (Oct '17 - Present)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -94,25 +92,24 @@ Summer Internship
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### London School of Theology (Sep '10 - Jul '13)
+**London School of Theology** (Sep '10 - Jul '13)
 
 - Theology & Music B.A.
 
-#### Any other qualifications
+**DofE???**
 
 
-##
-## Voluntary
+***
+# Voluntary
 **The Haiti Hospital Appeal** (Aug '06 - Aug '12)     
 *Head Volunteer Manager*  
 <dl>
   <dd><em>The Haiti Hospital Appeal is a charity looking after some of the worlds poorest people. I volunteered for 6 years to manage and organise the volunteers for their stand at summer festivals to raise awareness of the charity, it’s cause and it's fundraising. </em></dd>
 </dl>
 
-##
-## Interests
+***
+# Interests
 
 - Guitarist and Cinematic Composition
 - Current Technologies and Engineering
 - The Philosophical Impact of Code (e.g. programing Machine Learning moral choices, If a human level intelligence is made - does it have the same rights as a human?)
-##
