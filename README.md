@@ -100,7 +100,7 @@ Summer Internship (Aug '11 - Sep '11)
 - Theology & Music B.A.
 
 **Grade 8 Guitar**   
-  
+     
 **Duke of Edinburgh Award - Silver**
 
 
