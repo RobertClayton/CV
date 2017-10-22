@@ -1,7 +1,7 @@
 # Robert Clayton
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience)| [Education](#education)| [Voluntary](#voluntary) | [Interests](#interests)
 ***
-I grasp every opportunity available to me and strive to be enthusiastic and positive. What I enjoy most is being given tasks and objectives that push my abilities and talents.
+What I enjoy most is being given tasks and objectives that push my abilities and talents. In doing so I grasp every opportunity available to me and strive to be enthusiastic and positive.
 
 I am studying with Makers Academy as I am passionate about technology and love to be challenged, and have found programming to be the perfect combination of the two.
 
@@ -100,7 +100,7 @@ Summer Internship (Aug '11 - Sep '11)
 - Theology & Music B.A.
 
 **Grade 8 Guitar**   
-     
+
 **Duke of Edinburgh Award - Silver**
 
 
