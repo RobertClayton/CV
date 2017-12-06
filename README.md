@@ -74,9 +74,6 @@ Freelance (Feb '13 - Mar '16)
 **Jam Staffing Ltd**  
 Events Staff (Mar '12 - Dec '12)  
 
-**St Cuthbert's North Wembley**  
-Music Leader (Nov '10 - Jul '12)   
-
 **London Creative**  
 Summer Internship (Aug '11 - Sep '11)    
 
