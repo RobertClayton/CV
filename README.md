@@ -12,8 +12,8 @@ Before Makers Academy I ran the production department in London for a Magic Circ
 
 Project | Description | Technologies Used | Testing Technologies  
 ---|---|---|---   
-Blockchain | Building a Blockchain in one week | Ruby, HTML, Bootstrap | RSpec, Capybara  
-Yelp | A Yelp clone using Rails | Rails, Ruby, Postgres /w ActiveRecord, Devise, carrierwave HTML | RSpec, Capybara  
+[Blockchain](https://github.com/RobertClayton/building_a_blockchain) | Building a Blockchain in one week | Ruby, HTML, Bootstrap | RSpec, Capybara  
+[Yelp](https://github.com/RobertClayton/YelpApp) | A Yelp clone using Rails | Rails, Ruby, Postgres /w ActiveRecord, Devise, carrierwave HTML | RSpec, Capybara  
 
 ***
 # Skills
