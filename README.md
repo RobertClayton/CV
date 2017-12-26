@@ -13,15 +13,16 @@ Before Makers Academy I ran the production department in London for a Magic Circ
 Project | Description | Technologies Used | Testing Technologies  
 ---|---|---|---   
 [Blockchain](https://github.com/RobertClayton/building_a_blockchain) | Building a Blockchain in one week | Ruby, HTML, Bootstrap | RSpec, Capybara  
+[MakersBNB](https://github.com/RobertClayton/MakersBnB) | An AirBNB clone using JavaScript | Ruby, Javascript, CSS, HTML, datamapper, PostGres, BCrypt, carrierwave, JSON, Sinatra | RSpec, Capybara, Jasmine, Poltergeist    
 [Yelp](https://github.com/RobertClayton/YelpApp) | A Yelp clone using Rails | Rails, Ruby, Postgres /w ActiveRecord, Devise, carrierwave HTML | RSpec, Capybara  
 
 ***
 # Skills
 
-- **Communication**
-- **Fast and Adaptable learner**
-- **Feedback**
-- **Analytical thinker / Problem Solver**
+- **Communication** - Each day over the last three months, I have either been pair programming or working in an Agile team of 4-6 people.
+- **Fast and Adaptable learner** - Whilst at MakersAcademy I have been challenged to both learn a new technology and build a program in that new language within a week. Please view my [Projects](#projects) above.
+- **Feedback** - I enjoy and thrive off receiving feedback. I believe this is one of the strongest way to learn and have found it incredibly useful to my development.
+- **Analytical thinker / Problem Solver** - Having taken on some complex challenges, I have greatly expanded my Analytical abilities. An example would be the [Blockchain](https://github.com/RobertClayton/building_a_blockchain) project above: Understanding and building this involved diagramming, planning, discussions, prototyping and testing - before the actual building of this project.
 
 ***
 # Experience
@@ -51,7 +52,7 @@ Live Audio, Visual & Lighting Technician (Feb '13 - Mar '16)
 
 **Makers Academy** (Oct '17 - Present)    
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
