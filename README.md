@@ -5,7 +5,7 @@ I am looking for a Full Stack Developer role where I can continue to learn somet
 
 I am studying with Makers Academy as I am passionate about technology and love to be challenged, and have found programming to be the perfect combination of the two.
 
-Before Makers Academy I ran the production department in London for a Magic Circle law firm.
+Before Makers Academy I ran the London Production department for a Magic Circle law firm.
 
 ***
 # Projects
@@ -21,8 +21,8 @@ Project | Description | Technologies Used | Testing Technologies
 
 - **Communication** - Each day over the last three months, I have either been pair programming or working in an Agile team of 4-6 people.
 - **Fast and Adaptable learner** - Whilst at MakersAcademy I have been challenged to both learn a new technology and build a program in that new language within a week. Please view my [Projects](#projects) above.
-- **Feedback** - I enjoy and thrive off receiving feedback. I believe this is one of the strongest way to learn and have found it incredibly useful to my development.
-- **Analytical thinker / Problem Solver** - Having taken on some complex challenges, I have greatly expanded my Analytical abilities. An example would be the [Blockchain](https://github.com/RobertClayton/building_a_blockchain) project above: Understanding and building this involved diagramming, planning, discussions, prototyping and testing - before the actual building of this project.
+- **Feedback** - I enjoy and thrive off receiving feedback. I believe this is one of the strongest ways to learn and have found it incredibly useful to my development.
+- **Analytical thinker / Problem Solver** - Having taken on some complex challenges, I have greatly expanded my analytical abilities. An example would be the [Blockchain](https://github.com/RobertClayton/building_a_blockchain) project above: Understanding and building this involved diagramming, planning, discussions, prototyping and testing - before the actual building of this project.
 
 ***
 # Experience
