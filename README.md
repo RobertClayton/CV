@@ -12,6 +12,7 @@ Before Makers Academy I ran the London Production department for a Magic Circle 
 
 Project | Description | Technologies Used | Testing Technologies  
 ---|---|---|---   
+[Robotwars](https://github.com/SuzanneHuldt/robot-wars)| Building a bot, to make intelligent decisions, to play a local game against other developer's bots. Playing a two player twist on Conway's Game of Life.| Ruby | RSpec
 [Blockchain](https://github.com/RobertClayton/building_a_blockchain) | Building a Blockchain in one week | Ruby, HTML, Bootstrap | RSpec, Capybara  
 [MakersBNB](https://github.com/RobertClayton/MakersBnB) | An AirBNB clone using JavaScript | Ruby, Javascript, CSS, HTML, datamapper, PostGres, BCrypt, carrierwave, JSON, Sinatra | RSpec, Capybara, Jasmine, Poltergeist    
 [Yelp](https://github.com/RobertClayton/YelpApp) | A Yelp clone using Rails | Rails, Ruby, Postgres /w ActiveRecord, Devise, carrierwave HTML | RSpec, Capybara  
