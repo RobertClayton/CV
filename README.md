@@ -66,6 +66,8 @@ Live Audio, Visual & Lighting Technician (Feb '13 - Mar '16)
 
 **Duke of Edinburgh Award - Silver**
 
+**Royal Yachting Association Level 2**
+
 ***
 # Voluntary
 **The Haiti Hospital Appeal** (Aug '06 - Aug '12)     
@@ -79,4 +81,4 @@ Live Audio, Visual & Lighting Technician (Feb '13 - Mar '16)
 
 - Guitarist and Cinematic Composition
 - Current innovations in Technology
-- The Philosophical Impact of Code (e.g. programming Machine Learning moral choices, If a human level intelligence is made - does it have the same rights as a human?)
+- The Philosophical Impact of Code
