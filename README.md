@@ -1,11 +1,11 @@
 # Robert Clayton
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience)| [Education](#education)| [Voluntary](#voluntary) | [Interests](#interests)
 ***
-I am looking for a Full Stack Developer role where I can continue to learn something new every day, in a place that loves developing great software. I would also love the opportunity to use some amazing technologies such as Machine Learning, Artificial Intelligence and Blockchain.
+I am a Full Stack Developer seeking a role where I can learn something new every day. I taught myself to code in my spare time enjoying it so much, that I changed career and re-trained at Makers Academy.
 
-I am studying with Makers Academy as I am passionate about technology and love to be challenged, and have found programming to be the perfect combination of the two.
+I am passionate about technology and love to be challenged, programming to me is the perfect combination of the two.
 
-Before Makers Academy I ran the London Production department for a Magic Circle law firm.
+Before re-training I ran the London Production department for a large law firms.
 
 ***
 # Projects
